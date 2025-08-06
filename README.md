@@ -1,7 +1,7 @@
 # 🚘 License Plate Recognition using YOLOv8 & Qwen-VL
 
 ## 📖 Introduction
-This project implements an offline **License Plate Recognition (LPR)** system using stored images and video files. It combines the speed and accuracy of **YOLOv8m** for detecting license plate regions with the powerful **Qwen-VL 2.5/3B** vision-language model for OCR (Optical Character Recognition). The pipeline is optimized for extracting Indonesian vehicle plate numbers with high precision from various input formats.
+This project implements a **License Plate Recognition (LPR)** system using stored images and video files. It combines the speed and accuracy of **YOLOv8m** for detecting license plate regions with the powerful **Qwen-VL 2.5/3B** vision-language model for OCR (Optical Character Recognition). The pipeline is optimized for extracting Indonesian vehicle plate numbers with high precision from various input formats.
 
 ---
 
