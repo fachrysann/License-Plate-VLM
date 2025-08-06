@@ -9,7 +9,7 @@ This project implements an offline **License Plate Recognition (LPR)** system us
 - 🖼️ **Input**: Static images or pre-recorded videos (no live streaming)
 - 🎯 **Detection**: License plates are detected using **YOLOv8m (medium)** — balancing speed and accuracy
 - 🔠 **OCR**: Plate regions are processed using **Qwen-VL 2.5/3B** for character recognition
-- 🇮🇩 Optimized for **Indonesian plate formats** (e.g. `B 1234 XYZ`)
+- 🇮🇩 Can be Optimized for **Indonesian plate formats** (e.g. `B 1234 XYZ`)
 - 📝 Outputs include annotated images and extracted plate numbers in a log file
 - 💻 Fully local processing (with optional use of cloud API for Qwen-VL inference)
 - 📦 Modular design: detection, cropping, OCR, and logging are separated for flexibility
